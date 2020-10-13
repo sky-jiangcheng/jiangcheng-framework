@@ -15,7 +15,7 @@
         <slf4j-api.version>1.7.25</slf4j-api.version>
         <lombok.version>1.16.20</lombok.version>
         <!-- junit 用于测试用例-->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <!--cglib 应用 实现aop -->
         <cglib.version>3.2.6</cglib.version>
         <!--aspectj实现更灵活的切片-->
