@@ -23,7 +23,7 @@
         <!--实现 mvc -->
         <tomcat.version>8.5.31</tomcat.version>
         <jstl.version>1.2</jstl.version>
-        <fastjson.version>1.2.47</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
     <dependencies>
         <!-- SLF4J -->
